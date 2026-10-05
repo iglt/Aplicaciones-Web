@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(163, 231, 243)
+}
+.rojo   { color: red; }
+.blanco { color: white; }
+.verde  { color: green; }
+
+.tenor-gif-embed {
+    max-width: 1000px;
+}
